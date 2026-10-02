@@ -1,0 +1,112 @@
+-- MySQL schema generado para el modelo relacional solicitado
+-- Charset e InnoDB para claves foráneas
+CREATE DATABASE IF NOT EXISTS marketing_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE marketing_db;
+
+-- Zonas
+CREATE TABLE IF NOT EXISTS zones (
+  id_zona INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(100) NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- Países
+CREATE TABLE IF NOT EXISTS countries (
+  id_pais INT AUTO_INCREMENT PRIMARY KEY,
+  id_zona INT NOT NULL,
+  name VARCHAR(100) NOT NULL,
+  iso_code VARCHAR(10) DEFAULT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  CONSTRAINT fk_countries_zones FOREIGN KEY (id_zona) REFERENCES zones(id_zona) ON DELETE RESTRICT ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- Marcas por país
+CREATE TABLE IF NOT EXISTS brands (
+  id_marca INT AUTO_INCREMENT PRIMARY KEY,
+  id_pais INT NOT NULL,
+  name VARCHAR(150) NOT NULL,
+  brand_type VARCHAR(50),
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  CONSTRAINT fk_brands_countries FOREIGN KEY (id_pais) REFERENCES countries(id_pais) ON DELETE RESTRICT ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- Campañas por marca
+CREATE TABLE IF NOT EXISTS campaigns (
+  id_campaign INT AUTO_INCREMENT PRIMARY KEY,
+  id_marca INT NOT NULL,
+  name VARCHAR(200) NOT NULL,
+  campaign_type VARCHAR(80),
+  start_date DATE,
+  end_date DATE,
+  year INT GENERATED ALWAYS AS (YEAR(start_date)) VIRTUAL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  CONSTRAINT fk_campaigns_brands FOREIGN KEY (id_marca) REFERENCES brands(id_marca) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- Plataformas e-commerce por país
+CREATE TABLE IF NOT EXISTS ecommerce_platforms (
+  id_ecom INT AUTO_INCREMENT PRIMARY KEY,
+  id_pais INT NOT NULL,
+  platform_name VARCHAR(120) NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  CONSTRAINT fk_ecom_countries FOREIGN KEY (id_pais) REFERENCES countries(id_pais) ON DELETE RESTRICT ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- Mapeo entre campañas y e-commerce (promo codes, sponsor brand, valor pedido)
+CREATE TABLE IF NOT EXISTS ecommerce_campaigns (
+  id_ec_campaign INT AUTO_INCREMENT PRIMARY KEY,
+  id_ecom INT NOT NULL,
+  id_campaign INT NOT NULL,
+  promo_code VARCHAR(80),
+  sponsor_brand_id INT,
+  order_value DECIMAL(12,2) DEFAULT 0.00,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  CONSTRAINT fk_ec_ecom FOREIGN KEY (id_ecom) REFERENCES ecommerce_platforms(id_ecom) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT fk_ec_campaign FOREIGN KEY (id_campaign) REFERENCES campaigns(id_campaign) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT fk_ec_sponsor_brand FOREIGN KEY (sponsor_brand_id) REFERENCES brands(id_marca) ON DELETE SET NULL ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- Tipos de indicadores (Rendimiento, Costo Eficiente, Impacto)
+CREATE TABLE IF NOT EXISTS indicator_types (
+  id_indicator_type INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(100) NOT NULL,
+  category ENUM('Rendimiento','Costo Eficiente','Impacto') NOT NULL,
+  description TEXT,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- Registro de indicadores (vinculable a nivel país/marca/campaña/ecommerce)
+CREATE TABLE IF NOT EXISTS indicator_records (
+  id_record BIGINT AUTO_INCREMENT PRIMARY KEY,
+  id_indicator_type INT NOT NULL,
+  record_date DATE NOT NULL,
+  country_id INT DEFAULT NULL,
+  brand_id INT DEFAULT NULL,
+  campaign_id INT DEFAULT NULL,
+  ecom_id INT DEFAULT NULL,
+  metric_value DECIMAL(20,6) DEFAULT NULL,
+  impressions BIGINT DEFAULT NULL,
+  reach BIGINT DEFAULT NULL,
+  views BIGINT DEFAULT NULL,
+  clicks BIGINT DEFAULT NULL,
+  links BIGINT DEFAULT NULL,
+  sales DECIMAL(14,2) DEFAULT NULL,
+  investment DECIMAL(14,2) DEFAULT NULL,
+  notes TEXT,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  CONSTRAINT fk_ir_indicator_type FOREIGN KEY (id_indicator_type) REFERENCES indicator_types(id_indicator_type) ON DELETE RESTRICT ON UPDATE CASCADE,
+  CONSTRAINT fk_ir_country FOREIGN KEY (country_id) REFERENCES countries(id_pais) ON DELETE SET NULL ON UPDATE CASCADE,
+  CONSTRAINT fk_ir_brand FOREIGN KEY (brand_id) REFERENCES brands(id_marca) ON DELETE SET NULL ON UPDATE CASCADE,
+  CONSTRAINT fk_ir_campaign FOREIGN KEY (campaign_id) REFERENCES campaigns(id_campaign) ON DELETE SET NULL ON UPDATE CASCADE,
+  CONSTRAINT fk_ir_ecom FOREIGN KEY (ecom_id) REFERENCES ecommerce_platforms(id_ecom) ON DELETE SET NULL ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- Índices recomendados para consultas habituales
+CREATE INDEX idx_countries_zone ON countries(id_zona);
+CREATE INDEX idx_brands_country ON brands(id_pais);
+CREATE INDEX idx_campaigns_brand ON campaigns(id_marca);
+CREATE INDEX idx_ecom_country ON ecommerce_platforms(id_pais);
+CREATE INDEX idx_indicator_records_date ON indicator_records(record_date);
+
+-- Ejemplo: insertar Zona 4
+INSERT INTO zones (name) VALUES ('Zona 4') ON DUPLICATE KEY UPDATE name = name;

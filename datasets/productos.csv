@@ -1,0 +1,891 @@
+SKU_ID,CATEGORY,SKU_SIZE,CUPO,TIPO_DE_MATERIAL
+15|Cerveza|Botella 355|Media|NO RETORNABLE
+16|Cerveza|Botella 355|Media|RETORNABLE
+17|Cerveza|Lata 473|Laton|NO RETORNABLE
+18|Cerveza|Botella 355|Media|RETORNABLE
+19|Cerveza|Lata 355|Bote|NO RETORNABLE
+20|Cerveza|Botella 210|Cuarto|RETORNABLE
+22|Cerveza|Lata 355|Bote|NO RETORNABLE
+23|Cerveza|Lata 355|Bote|NO RETORNABLE
+24|Cerveza|Botella 355|Media|RETORNABLE
+26|Cerveza|Botella 210|Cuarto|RETORNABLE
+27|Cerveza|Lata 355|Bote|NO RETORNABLE
+28|Cerveza|Lata 440|Laton|NO RETORNABLE
+29|Cerveza|Botella 355|Media|RETORNABLE
+30|Cerveza|Lata 355|Bote|NO RETORNABLE
+40|Cerveza|Botella 355|Media|NO RETORNABLE
+41|Cerveza|Botella 355|Media|NO RETORNABLE
+52|Cerveza|Lata 355|Bote|NO RETORNABLE
+53|Cerveza|Lata 355|Bote|NO RETORNABLE
+54|Cerveza|Botella 210|Cuarto|RETORNABLE
+55|Cerveza|Lata 355|Bote|NO RETORNABLE
+58|Cerveza|Lata 473|Laton|NO RETORNABLE
+59|Cerveza|Botella 355|Media|RETORNABLE
+60|Cerveza|Lata 355|Bote|NO RETORNABLE
+61|Cerveza|Lata 355|Bote|NO RETORNABLE
+62|Cerveza|Botella 355|Media|NO RETORNABLE
+63|Cerveza|Botella 355|Media|NO RETORNABLE
+64|Cerveza|Botella 330|Media|NO RETORNABLE
+93|Cerveza|Lata 355|Bote|NO RETORNABLE
+95|Cerveza|Botella 355|Media|NO RETORNABLE
+96|Cerveza|Lata 355|Bote|NO RETORNABLE
+97|Cerveza|Lata 355|Bote|NO RETORNABLE
+98|Cerveza|Botella 330|Media|NO RETORNABLE
+99|Cerveza|Lata 473|Laton|NO RETORNABLE
+100|Cerveza|Botella 250|Cuarto|RETORNABLE
+101|Cerveza|Lata 355|Bote|NO RETORNABLE
+102|Cerveza|Lata 473|Laton|NO RETORNABLE
+103|Cerveza|Botella 355|Media|RETORNABLE
+116|Cerveza|Botella 325|Media|RETORNABLE
+118|Cerveza|Botella 1.2L|Mega|RETORNABLE
+119|Cerveza|Botella 1.2L|Mega|RETORNABLE
+120|Cerveza|Botella 1.02L|Mega|RETORNABLE
+121|Cerveza|Botella 1.02L|Mega|RETORNABLE
+122|Cerveza|Lata 473|Laton|NO RETORNABLE
+123|Cerveza|Lata 473|Laton|NO RETORNABLE
+124|Cerveza|Lata 355|Bote|NO RETORNABLE
+125|Cerveza|Lata 355|Bote|NO RETORNABLE
+126|Cerveza|Lata 355|Bote|NO RETORNABLE
+127|Cerveza|Lata 355|Bote|NO RETORNABLE
+132|Cerveza|Lata 473|Laton|NO RETORNABLE
+133|Cerveza|Lata 473|Laton|NO RETORNABLE
+134|Cerveza|Lata 473|Laton|NO RETORNABLE
+135|Cerveza|Botella 355|Media|NO RETORNABLE
+136|Cerveza|Lata 355|Bote|NO RETORNABLE
+137|Cerveza|Botella 325|Media|RETORNABLE
+138|Cerveza|Botella 1.06L|Mega|RETORNABLE
+139|Cerveza|Botella 1.06L|Mega|RETORNABLE
+140|Cerveza|Botella 1.2L|Mega|RETORNABLE
+141|Cerveza|Botella 1.2L|Mega|RETORNABLE
+142|Cerveza|Botella 210|Cuarto|RETORNABLE
+143|Cerveza|Botella 325|Media|RETORNABLE
+144|Cerveza|Lata 355|Bote|NO RETORNABLE
+145|Cerveza|Botella 355|Media|NO RETORNABLE
+146|Cerveza|Botella 330|Media|NO RETORNABLE
+147|Cerveza|Lata 355|Bote|NO RETORNABLE
+148|Cerveza|Lata 355|Bote|NO RETORNABLE
+149|Cerveza|Lata 473|Laton|NO RETORNABLE
+150|Cerveza|Lata 473|Laton|NO RETORNABLE
+151|Cerveza|Lata 355|Bote|NO RETORNABLE
+152|Cerveza|Lata 355|Bote|NO RETORNABLE
+153|Cerveza|Lata 355|Bote|NO RETORNABLE
+154|Cerveza|Lata 355|Bote|NO RETORNABLE
+155|Cerveza|Botella 210|Cuarto|RETORNABLE
+156|Cerveza|Lata 473|Laton|NO RETORNABLE
+157|Cerveza|Lata 355|Bote|NO RETORNABLE
+158|Cerveza|Lata 355|Bote|NO RETORNABLE
+159|Cerveza|Lata 355|Bote|NO RETORNABLE
+164|Cerveza|Lata 473|Laton|NO RETORNABLE
+165|Cerveza|Botella 355|Media|RETORNABLE
+166|Cerveza|Botella 355|Media|RETORNABLE
+167|Cerveza|Botella 325|Media|RETORNABLE
+168|Cerveza|Lata 473|Laton|NO RETORNABLE
+169|Cerveza|Botella 1.2L|Mega|RETORNABLE
+170|Cerveza|Botella 1.2L|Mega|RETORNABLE
+171|Cerveza|Botella 1.2L|Mega|RETORNABLE
+172|Cerveza|Botella 1.2L|Mega|RETORNABLE
+173|Cerveza|Botella 1.2L|Mega|RETORNABLE
+174|Cerveza|Botella 355|Media|RETORNABLE
+175|Cerveza|Botella 355|Media|RETORNABLE
+176|Cerveza|Lata 355|Bote|NO RETORNABLE
+177|Cerveza|Botella 940|Familiar|RETORNABLE
+178|Cerveza|Botella 940|Familiar|RETORNABLE
+179|Cerveza|Botella 355|Media|RETORNABLE
+180|Cerveza|Botella 355|Media|RETORNABLE
+181|Cerveza|Botella 355|Media|RETORNABLE
+182|Cerveza|Botella 355|Media|RETORNABLE
+183|Cerveza|Botella 355|Media|RETORNABLE
+184|Cerveza|Botella 355|Media|RETORNABLE
+185|Cerveza|Botella 355|Media|RETORNABLE
+186|Cerveza|Botella 355|Media|RETORNABLE
+187|Cerveza|Lata 355|Bote|NO RETORNABLE
+191|Cerveza|Botella 355|Media|NO RETORNABLE
+192|Cerveza|Botella 355|Media|NO RETORNABLE
+193|Cerveza|Botella 355|Media|NO RETORNABLE
+194|Cerveza|Lata 473|Laton|NO RETORNABLE
+195|Cerveza|Botella 355|Media|NO RETORNABLE
+196|Cerveza|Botella 355|Media|RETORNABLE
+197|Cerveza|Botella 355|Media|RETORNABLE
+198|Cerveza|Botella 210|Cuarto|RETORNABLE
+199|Cerveza|Botella 210|Cuarto|RETORNABLE
+200|Cerveza|Botella 1.2L|Mega|RETORNABLE
+201|Cerveza|Botella 1.2L|Mega|RETORNABLE
+202|Cerveza|Lata 355|Bote|NO RETORNABLE
+205|Cerveza|Botella 355|Media|NO RETORNABLE
+206|Cerveza|Lata 473|Laton|NO RETORNABLE
+207|Cerveza|Botella 210|Cuarto|RETORNABLE
+208|Cerveza|Botella 210|Cuarto|RETORNABLE
+210|Cerveza|Lata 473|Laton|NO RETORNABLE
+211|Cerveza|Botella 1L|Mega|RETORNABLE
+212|Cerveza|Botella 1L|Mega|RETORNABLE
+213|Cerveza|Lata 269|Bote 269|NO RETORNABLE
+214|Cerveza|Botella 710|710|RETORNABLE
+215|Cerveza|Botella 710|710|RETORNABLE
+216|Cerveza|Botella 355|Media|RETORNABLE
+217|Cerveza|Botella 355|Media|RETORNABLE
+218|Cerveza|Botella 355|Media|RETORNABLE
+219|Cerveza|Botella 355|Media|RETORNABLE
+220|Cerveza|Lata 473|Laton|NO RETORNABLE
+221|Cerveza|Lata 473|Laton|NO RETORNABLE
+222|Cerveza|Botella 1.2L|Mega|RETORNABLE
+223|Cerveza|Botella 1.2L|Mega|RETORNABLE
+224|Cerveza|Botella 1.2L|Mega|RETORNABLE
+225|Cerveza|Botella 1.2L|Mega|RETORNABLE
+226|Cerveza|Botella 355|Media|RETORNABLE
+227|Cerveza|Botella 355|Media|RETORNABLE
+234|Cerveza|Botella 355|Media|NO RETORNABLE
+235|Cerveza|Botella 900|Familiar|RETORNABLE
+239|Cerveza|Botella 355|Media|RETORNABLE
+240|Cerveza|Botella 355|Media|RETORNABLE
+241|Cerveza|Botella 1.2L|Mega|RETORNABLE
+242|Cerveza|Botella 1.2L|Mega|RETORNABLE
+243|Cerveza|Botella 355|Media|NO RETORNABLE
+244|Cerveza|Lata 473|Laton|NO RETORNABLE
+247|Cerveza|Botella 330|Media|NO RETORNABLE
+248|Cerveza|Botella 355|Media|NO RETORNABLE
+249|Cerveza|Lata 269|Bote 269|NO RETORNABLE
+250|Cerveza|Lata 269|Bote 269|NO RETORNABLE
+251|Cerveza|Lata 269|Bote 269|NO RETORNABLE
+252|Cerveza|Botella 500|Media|NO RETORNABLE
+253|Cerveza|Botella 330|Media|NO RETORNABLE
+254|Cerveza|Botella 330|Media|NO RETORNABLE
+255|Cerveza|Botella 355|Media|RETORNABLE
+256|Cerveza|Botella 355|Media|RETORNABLE
+262|Cerveza|Lata 269|Bote 269|NO RETORNABLE
+263|Cerveza|Botella 1.2L|Mega|RETORNABLE
+264|Cerveza|Botella 1.2L|Mega|RETORNABLE
+267|Cerveza|Lata 355|Bote|NO RETORNABLE
+268|Cerveza|Botella 355|Media|RETORNABLE
+269|Cerveza|Botella 355|Media|RETORNABLE
+270|Cerveza|Botella 355|Media|RETORNABLE
+271|Cerveza|Botella 355|Media|RETORNABLE
+293|Cerveza|Botella 330|Media|NO RETORNABLE
+304|Cerveza|Botella 355|Media|RETORNABLE
+305|Cerveza|Botella 355|Media|RETORNABLE
+306|Cerveza|Botella 355|Media|RETORNABLE
+307|Cerveza|Botella 355|Media|RETORNABLE
+308|Cerveza|Botella 355|Media|RETORNABLE
+309|Cerveza|Botella 355|Media|RETORNABLE
+310|Cerveza|Botella 355|Media|RETORNABLE
+311|Cerveza|Botella 355|Media|RETORNABLE
+312|Cerveza|Botella 355|Media|RETORNABLE
+313|Cerveza|Botella 355|Media|RETORNABLE
+315|Cerveza|Botella 210|Cuarto|RETORNABLE
+316|Cerveza|Botella 210|Cuarto|RETORNABLE
+317|Cerveza|Lata 355|Bote|NO RETORNABLE
+318|Cerveza|Botella 1.2L|Mega|RETORNABLE
+319|Cerveza|Botella 1.2L|Mega|RETORNABLE
+320|Cerveza|Botella 210|Cuarto|RETORNABLE
+321|Cerveza|Botella 210|Cuarto|RETORNABLE
+322|Cerveza|Lata 355|Bote|NO RETORNABLE
+323|Cerveza|Botella 355|Media|RETORNABLE
+324|Cerveza|Botella 355|Media|RETORNABLE
+327|Cerveza|Lata 355|Bote|NO RETORNABLE
+350|Cerveza|Botella 440|Media|NO RETORNABLE
+351|Cerveza|Botella 440|Media|NO RETORNABLE
+352|Cerveza|Botella 355|Media|NO RETORNABLE
+353|Cerveza|Botella 355|Media|NO RETORNABLE
+354|Cerveza|Botella 355|Media|NO RETORNABLE
+355|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+356|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+357|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+358|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+359|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+360|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+361|Cerveza|Lata 355|Bote|NO RETORNABLE
+362|Cerveza|Lata 473|Laton|NO RETORNABLE
+363|Cerveza|Lata 473|Laton|NO RETORNABLE
+364|Cerveza|Lata 473|Laton|NO RETORNABLE
+365|Cerveza|Lata 473|Laton|NO RETORNABLE
+366|Cerveza|Lata 473|Laton|NO RETORNABLE
+367|Cerveza|Lata 473|Laton|NO RETORNABLE
+368|Cerveza|Lata 473|Laton|NO RETORNABLE
+369|Cerveza|Lata 473|Laton|NO RETORNABLE
+370|Cerveza|Botella 1L|Mega|RETORNABLE
+371|Cerveza|Botella 1L|Mega|RETORNABLE
+372|Cerveza|Botella 900|Familiar|RETORNABLE
+373|Cerveza|Botella 900|Familiar|RETORNABLE
+374|Cerveza|Botella 1L|Mega|RETORNABLE
+375|Cerveza|Botella 1L|Mega|RETORNABLE
+376|Cerveza|Botella 900|Familiar|RETORNABLE
+377|Cerveza|Botella 900|Familiar|RETORNABLE
+378|Cerveza|Botella 1L|Mega|RETORNABLE
+379|Cerveza|Botella 1L|Mega|RETORNABLE
+380|Cerveza|Botella 1L|Mega|RETORNABLE
+381|Cerveza|Botella 1L|Mega|RETORNABLE
+382|Cerveza|Botella 1.2L|Mega|RETORNABLE
+383|Cerveza|Botella 1.2L|Mega|RETORNABLE
+384|Cerveza|Botella 1.2L|Mega|RETORNABLE
+385|Cerveza|Botella 1.2L|Mega|RETORNABLE
+386|Cerveza|Botella 355|Media|RETORNABLE
+387|Cerveza|Botella 355|Media|RETORNABLE
+388|Cerveza|Botella 355|Media|RETORNABLE
+389|Cerveza|Botella 355|Media|RETORNABLE
+390|Cerveza|Botella 355|Media|RETORNABLE
+391|Cerveza|Botella 355|Media|RETORNABLE
+392|Cerveza|Botella 1.2L|Mega|RETORNABLE
+393|Cerveza|Botella 1.2L|Mega|RETORNABLE
+394|Cerveza|Botella 330|Media|NO RETORNABLE
+395|Cerveza|Lata 355|Bote|NO RETORNABLE
+396|Cerveza|Botella 355|Media|RETORNABLE
+397|Cerveza|Lata 355|Bote|NO RETORNABLE
+398|Cerveza|Botella 900|Familiar|RETORNABLE
+399|Cerveza|Botella 900|Familiar|RETORNABLE
+400|Cerveza|Lata 355|Bote|NO RETORNABLE
+401|Cerveza|Lata 355|Bote|NO RETORNABLE
+402|Cerveza|Lata 355|Bote|NO RETORNABLE
+403|Cerveza|Lata 355|Bote|NO RETORNABLE
+404|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+405|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+406|Cerveza|Botella 210|Cuarto|RETORNABLE
+407|Cerveza|Lata 355|Bote|NO RETORNABLE
+408|Cerveza|Lata 355|Bote|NO RETORNABLE
+409|Cerveza|Lata 355|Bote|NO RETORNABLE
+410|Cerveza|Botella 946|Familiar|NO RETORNABLE
+411|Cerveza|Botella 946|Familiar|NO RETORNABLE
+412|Cerveza|Botella 355|Media|NO RETORNABLE
+413|Cerveza|Botella 355|Media|NO RETORNABLE
+414|Cerveza|Botella 355|Media|NO RETORNABLE
+415|Cerveza|Lata 355|Bote|NO RETORNABLE
+416|Cerveza|Lata 355|Bote|NO RETORNABLE
+417|Cerveza|Lata 355|Bote|NO RETORNABLE
+418|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+419|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+420|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+421|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+422|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+423|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+424|Cerveza|Botella 210|Cuarto|NO RETORNABLE
+425|Cerveza|Botella 210|Cuarto|NO RETORNABLE
+426|Cerveza|Botella 1.2L|Mega|RETORNABLE
+427|Cerveza|Botella 1.2L|Mega|RETORNABLE
+428|Cerveza|Botella 1.2L|Mega|RETORNABLE
+429|Cerveza|Botella 1.2L|Mega|RETORNABLE
+430|Cerveza|Botella 210|Cuarto|RETORNABLE
+431|Cerveza|Botella 355|Media|NO RETORNABLE
+432|Cerveza|Lata 355|Bote|NO RETORNABLE
+434|Cerveza|Lata 355|Bote|NO RETORNABLE
+435|Cerveza|Botella 355|Media|RETORNABLE
+436|Cerveza|Botella 355|Media|RETORNABLE
+437|Cerveza|Botella 355|Media|RETORNABLE
+438|Cerveza|Botella 355|Media|RETORNABLE
+439|Cerveza|Botella 1.2L|Mega|RETORNABLE
+440|Cerveza|Botella 1.2L|Mega|RETORNABLE
+441|Cerveza|Botella 1.2L|Mega|RETORNABLE
+442|Cerveza|Botella 1.2L|Mega|RETORNABLE
+443|Cerveza|Botella 1L|Mega|RETORNABLE
+444|Cerveza|Botella 1L|Mega|RETORNABLE
+445|Cerveza|Botella 1.2L|Mega|RETORNABLE
+446|Cerveza|Botella 1.2L|Mega|RETORNABLE
+471|Cerveza|Botella 1.2L|Mega|RETORNABLE
+472|Cerveza|Botella 1.2L|Mega|RETORNABLE
+473|Cerveza|Botella 1.2L|Mega|RETORNABLE
+474|Cerveza|Botella 1.2L|Mega|RETORNABLE
+475|Cerveza|Botella 1.2L|Mega|RETORNABLE
+476|Cerveza|Botella 1.2L|Mega|RETORNABLE
+477|Cerveza|Botella 940|Familiar|RETORNABLE
+478|Cerveza|Botella 940|Familiar|RETORNABLE
+479|Cerveza|Botella 940|Familiar|RETORNABLE
+480|Cerveza|Botella 940|Familiar|RETORNABLE
+481|Cerveza|Botella 940|Familiar|RETORNABLE
+482|Cerveza|Botella 940|Familiar|RETORNABLE
+483|Cerveza|Botella 940|Familiar|RETORNABLE
+484|Cerveza|Botella 940|Familiar|RETORNABLE
+485|Cerveza|Botella 940|Familiar|RETORNABLE
+486|Cerveza|Botella 940|Familiar|RETORNABLE
+553|Cerveza|Lata 355|Bote|NO RETORNABLE
+554|Cerveza|Lata 355|Bote|NO RETORNABLE
+555|Cerveza|Lata 355|Bote|NO RETORNABLE
+556|Cerveza|Lata 355|Bote|NO RETORNABLE
+557|Cerveza|Lata 355|Bote|NO RETORNABLE
+558|Cerveza|Botella 355|Media|NO RETORNABLE
+559|Cerveza|Botella 330|Media|NO RETORNABLE
+560|Cerveza|Botella 355|Media|NO RETORNABLE
+561|Cerveza|Botella 355|Media|NO RETORNABLE
+562|Cerveza|Botella 355|Media|NO RETORNABLE
+563|Cerveza|Lata 355|Bote|NO RETORNABLE
+564|Cerveza|Lata 473|Laton|NO RETORNABLE
+565|Cerveza|Lata 473|Laton|NO RETORNABLE
+566|Cerveza|Lata 355|Bote|NO RETORNABLE
+567|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+568|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+569|Cerveza|Botella 1.2L|Mega|RETORNABLE
+570|Cerveza|Botella 1.2L|Mega|RETORNABLE
+571|Cerveza|Lata 269|Bote 269|NO RETORNABLE
+572|Cerveza|Lata 269|Bote 269|NO RETORNABLE
+582|Cerveza|Lata 473|Laton|NO RETORNABLE
+583|Cerveza|Lata 473|Laton|NO RETORNABLE
+584|Cerveza|Botella 1.2L|Mega|RETORNABLE
+585|Cerveza|Botella 1.2L|Mega|RETORNABLE
+586|Cerveza|Lata 355|Bote|NO RETORNABLE
+587|Cerveza|Lata 355|Bote|NO RETORNABLE
+588|Cerveza|Botella 1L|Mega|RETORNABLE
+589|Cerveza|Botella 1L|Mega|RETORNABLE
+590|Cerveza|Botella 1L|Mega|RETORNABLE
+591|Cerveza|Botella 1L|Mega|RETORNABLE
+592|Cerveza|Botella 1L|Mega|RETORNABLE
+593|Cerveza|Botella 1L|Mega|RETORNABLE
+594|Cerveza|Lata 355|Bote|NO RETORNABLE
+595|Cerveza|Lata 355|Bote|NO RETORNABLE
+596|Cerveza|Lata 355|Bote|NO RETORNABLE
+597|Cerveza|Botella 355|Media|NO RETORNABLE
+598|Cerveza|Botella 355|Media|NO RETORNABLE
+599|Cerveza|Botella 355|Media|NO RETORNABLE
+600|Cerveza|Botella 355|Media|NO RETORNABLE
+601|Cerveza|Botella 210|Cuarto|RETORNABLE
+602|Cerveza|Botella 210|Cuarto|RETORNABLE
+603|Cerveza|Botella 210|Cuarto|RETORNABLE
+604|Cerveza|Botella 210|Cuarto|RETORNABLE
+605|Cerveza|Lata 473|Laton|NO RETORNABLE
+606|Cerveza|Lata 269|Bote 269|NO RETORNABLE
+607|Cerveza|Lata 355|Bote|NO RETORNABLE
+608|Cerveza|Lata 355|Bote|NO RETORNABLE
+609|Cerveza|Lata 473|Laton|NO RETORNABLE
+611|Cerveza|Lata 473|Laton|NO RETORNABLE
+612|Cerveza|Botella 355|Media|RETORNABLE
+613|Cerveza|Botella 355|Media|RETORNABLE
+614|Cerveza|Botella 1L|Mega|RETORNABLE
+615|Cerveza|Botella 1L|Mega|RETORNABLE
+616|Cerveza|Botella 1L|Mega|RETORNABLE
+617|Cerveza|Botella 1L|Mega|RETORNABLE
+618|Cerveza|Botella 900|Familiar|RETORNABLE
+619|Cerveza|Botella 900|Familiar|RETORNABLE
+620|Cerveza|Botella 330|Media|NO RETORNABLE
+621|Cerveza|Botella 355|Media|RETORNABLE
+622|Cerveza|Botella 355|Media|RETORNABLE
+623|Cerveza|Botella 355|Media|RETORNABLE
+624|Cerveza|Botella 355|Media|RETORNABLE
+625|Cerveza|Botella 355|Media|NO RETORNABLE
+626|Cerveza|Botella 355|Media|NO RETORNABLE
+627|Cerveza|Botella 1L|Mega|RETORNABLE
+628|Cerveza|Botella 355|Media|RETORNABLE
+630|Cerveza|Botella 1L|Mega|RETORNABLE
+631|Cerveza|Lata 473|Laton|NO RETORNABLE
+632|Cerveza|Lata 269|Bote 269|NO RETORNABLE
+633|Cerveza|Lata 269|Bote 269|NO RETORNABLE
+634|Cerveza|Botella 210|Cuarto|RETORNABLE
+635|Cerveza|Botella 210|Cuarto|RETORNABLE
+636|Cerveza|Botella 210|Cuarto|RETORNABLE
+637|Cerveza|Botella 210|Cuarto|RETORNABLE
+638|Cerveza|Botella 355|Media|RETORNABLE
+639|Cerveza|Botella 355|Media|RETORNABLE
+640|Cerveza|Botella 355|Media|RETORNABLE
+641|Cerveza|Botella 355|Media|RETORNABLE
+642|Cerveza|Botella 355|Media|RETORNABLE
+643|Cerveza|Botella 355|Media|RETORNABLE
+644|Cerveza|Botella 355|Media|RETORNABLE
+645|Cerveza|Botella 355|Media|RETORNABLE
+646|Cerveza|Botella 210|Cuarto|RETORNABLE
+647|Cerveza|Botella 210|Cuarto|RETORNABLE
+648|Cerveza|Botella 210|Cuarto|RETORNABLE
+649|Cerveza|Botella 210|Cuarto|RETORNABLE
+650|Cerveza|Botella 210|Cuarto|RETORNABLE
+651|Cerveza|Botella 210|Cuarto|RETORNABLE
+652|Cerveza|Botella 210|Cuarto|RETORNABLE
+653|Cerveza|Botella 210|Cuarto|RETORNABLE
+654|Cerveza|Botella 355|Media|RETORNABLE
+655|Cerveza|Botella 355|Media|RETORNABLE
+656|Cerveza|Botella 355|Media|RETORNABLE
+657|Cerveza|Botella 355|Media|RETORNABLE
+658|Cerveza|Botella 355|Media|RETORNABLE
+659|Cerveza|Botella 355|Media|RETORNABLE
+660|Cerveza|Botella 355|Media|RETORNABLE
+661|Cerveza|Botella 355|Media|RETORNABLE
+662|Cerveza|Botella 940|Familiar|RETORNABLE
+663|Cerveza|Botella 940|Familiar|RETORNABLE
+664|Cerveza|Botella 940|Familiar|RETORNABLE
+665|Cerveza|Botella 940|Familiar|RETORNABLE
+666|Cerveza|Botella 1.2L|Mega|RETORNABLE
+667|Cerveza|Botella 1.2L|Mega|RETORNABLE
+668|Cerveza|Botella 1.2L|Mega|RETORNABLE
+669|Cerveza|Botella 1.2L|Mega|RETORNABLE
+670|Cerveza|Botella 1.2L|Mega|RETORNABLE
+671|Cerveza|Botella 1.2L|Mega|RETORNABLE
+672|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+673|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+674|Cerveza|Lata 355|Bote|NO RETORNABLE
+675|Cerveza|Botella 355|Media|NO RETORNABLE
+676|Cerveza|Botella 355|Media|NO RETORNABLE
+677|Cerveza|Lata 355|Bote|NO RETORNABLE
+678|Cerveza|Lata 355|Bote|NO RETORNABLE
+679|Cerveza|Botella 210|Cuarto|RETORNABLE
+680|Cerveza|Botella 210|Cuarto|RETORNABLE
+681|Cerveza|Botella 210|Cuarto|RETORNABLE
+682|Cerveza|Botella 210|Cuarto|RETORNABLE
+683|Cerveza|Botella 210|Cuarto|RETORNABLE
+684|Cerveza|Botella 210|Cuarto|RETORNABLE
+685|Cerveza|Botella 210|Cuarto|RETORNABLE
+686|Cerveza|Botella 210|Cuarto|RETORNABLE
+687|Cerveza|Botella 355|Media|RETORNABLE
+688|Cerveza|Botella 355|Media|RETORNABLE
+689|Cerveza|Botella 355|Media|RETORNABLE
+690|Cerveza|Botella 355|Media|RETORNABLE
+691|Cerveza|Botella 355|Media|RETORNABLE
+692|Cerveza|Botella 355|Media|RETORNABLE
+693|Cerveza|Botella 1L|Mega|RETORNABLE
+694|Cerveza|Botella 1L|Mega|RETORNABLE
+695|Cerveza|Lata 355|Bote|NO RETORNABLE
+696|Cerveza|Lata 473|Laton|NO RETORNABLE
+697|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+698|Cerveza|Lata 355|Bote|NO RETORNABLE
+699|Cerveza|Lata 269|Bote 269|NO RETORNABLE
+700|Cerveza|Lata 355|Bote|NO RETORNABLE
+701|Cerveza|Lata 473|Laton|NO RETORNABLE
+702|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+703|Cerveza|Lata 473|Laton|NO RETORNABLE
+704|Cerveza|Lata 473|Laton|NO RETORNABLE
+705|Cerveza|Lata 473|Laton|NO RETORNABLE
+706|Cerveza|Lata 473|Laton|NO RETORNABLE
+707|Cerveza|Lata 473|Laton|NO RETORNABLE
+708|Cerveza|Lata 473|Laton|NO RETORNABLE
+709|Cerveza|Lata 473|Laton|NO RETORNABLE
+710|Cerveza|Botella 355|Media|NO RETORNABLE
+723|Cerveza|Lata 473|Laton|NO RETORNABLE
+724|Cerveza|Lata 473|Laton|NO RETORNABLE
+725|Cerveza|Botella 355|Media|NO RETORNABLE
+726|Cerveza|Botella 1.2L|Mega|RETORNABLE
+727|Cerveza|Botella 1.2L|Mega|RETORNABLE
+728|Cerveza|Botella 1.2L|Mega|RETORNABLE
+729|Cerveza|Botella 1.2L|Mega|RETORNABLE
+730|Cerveza|Botella 1.2L|Mega|RETORNABLE
+731|Cerveza|Botella 1.2L|Mega|RETORNABLE
+732|Cerveza|Botella 1.2L|Mega|RETORNABLE
+733|Cerveza|Botella 1.2L|Mega|RETORNABLE
+746|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+747|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+750|Cerveza|Lata 473|Laton|NO RETORNABLE
+751|Cerveza|Lata 473|Laton|NO RETORNABLE
+752|Cerveza|Lata 473|Laton|NO RETORNABLE
+753|Cerveza|Lata 473|Laton|NO RETORNABLE
+754|Cerveza|Botella 355|Media|NO RETORNABLE
+755|Cerveza|Botella 355|Media|NO RETORNABLE
+756|Cerveza|Lata 355|Bote|NO RETORNABLE
+757|Cerveza|Lata 355|Bote|NO RETORNABLE
+839|Cerveza|Botella 1.2L|Mega|RETORNABLE
+840|Cerveza|Botella 1.2L|Mega|RETORNABLE
+841|Cerveza|Botella 1.2L|Mega|RETORNABLE
+842|Cerveza|Botella 1.2L|Mega|RETORNABLE
+843|Cerveza|Botella 1.2L|Mega|RETORNABLE
+844|Cerveza|Botella 1.2L|Mega|RETORNABLE
+845|Cerveza|Lata 473|Laton|NO RETORNABLE
+888|Cerveza|Botella 330|Media|NO RETORNABLE
+889|Cerveza|Lata 269|Bote 269|NO RETORNABLE
+890|Cerveza|Lata 269|Bote 269|NO RETORNABLE
+907|Cerveza|Botella 355|Media|RETORNABLE
+908|Cerveza|Botella 355|Media|RETORNABLE
+909|Cerveza|Botella 355|Media|RETORNABLE
+910|Cerveza|Botella 355|Media|RETORNABLE
+911|Cerveza|Botella 210|Cuarto|RETORNABLE
+912|Cerveza|Botella 210|Cuarto|RETORNABLE
+913|Cerveza|Botella 210|Cuarto|RETORNABLE
+914|Cerveza|Botella 210|Cuarto|RETORNABLE
+916|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+917|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+918|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+919|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+940|Cerveza|Lata 710|Bote 710|NO RETORNABLE
+941|Cerveza|Botella 355|Media|NO RETORNABLE
+942|Cerveza|Botella 210|Cuarto|NO RETORNABLE
+943|Cerveza|Botella 355|Media|RETORNABLE
+944|Cerveza|Botella 210|Cuarto|RETORNABLE
+945|Cerveza|Botella 355|Media|RETORNABLE
+946|Cerveza|Botella 210|Cuarto|RETORNABLE
+947|Cerveza|Botella 210|Cuarto|RETORNABLE
+948|Cerveza|Lata 440|Laton|NO RETORNABLE
+949|Cerveza|Botella 355|Media|NO RETORNABLE
+950|Cerveza|Botella 1.2L|Mega|RETORNABLE
+951|Cerveza|Botella 1.2L|Mega|RETORNABLE
+952|Cerveza|Lata 473|Laton|NO RETORNABLE
+953|Cerveza|Botella 355|Media|NO RETORNABLE
+954|Cerveza|Lata 355|Bote|NO RETORNABLE
+955|Cerveza|Botella 355|Media|RETORNABLE
+956|Cerveza|Botella 355|Media|RETORNABLE
+957|Cerveza|Botella 355|Media|RETORNABLE
+958|Cerveza|Botella 210|Cuarto|RETORNABLE
+959|Cerveza|Botella 210|Cuarto|RETORNABLE
+960|Cerveza|Botella 355|Media|RETORNABLE
+961|Cerveza|Botella 355|Media|RETORNABLE
+962|Cerveza|Lata 355|Bote|NO RETORNABLE
+963|Cerveza|Lata 355|Bote|NO RETORNABLE
+964|Cerveza|Lata 355|Bote|NO RETORNABLE
+965|Cerveza|Botella 355|Media|NO RETORNABLE
+966|Cerveza|Lata 355|Bote|NO RETORNABLE
+967|Cerveza|Lata 355|Bote|NO RETORNABLE
+968|Cerveza|Lata 355|Bote|NO RETORNABLE
+969|Cerveza|Lata 355|Bote|NO RETORNABLE
+970|Cerveza|Lata 355|Bote|NO RETORNABLE
+971|Cerveza|Botella 330|Media|NO RETORNABLE
+972|Cerveza|Lata 355|Bote|NO RETORNABLE
+973|Cerveza|Lata 355|Bote|NO RETORNABLE
+974|Cerveza|Lata 355|Bote|NO RETORNABLE
+975|Cerveza|Lata 355|Bote|NO RETORNABLE
+976|Cerveza|Lata 355|Bote|NO RETORNABLE
+977|Cerveza|Lata 355|Bote|NO RETORNABLE
+978|Cerveza|Lata 355|Bote|NO RETORNABLE
+979|Cerveza|Lata 355|Bote|NO RETORNABLE
+980|Cerveza|Botella 1.2L|Mega|RETORNABLE
+981|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+992|Cerveza|Lata 473|Laton|NO RETORNABLE
+993|Cerveza|Lata 473|Laton|NO RETORNABLE
+994|Cerveza|Lata 473|Laton|NO RETORNABLE
+995|Cerveza|Lata 473|Laton|NO RETORNABLE
+996|Cerveza|Lata 473|Laton|NO RETORNABLE
+997|Cerveza|Lata 355|Bote|NO RETORNABLE
+998|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+999|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+1000|Cerveza|Lata 473|Laton|NO RETORNABLE
+1001|Cerveza|Lata 473|Laton|NO RETORNABLE
+1002|Cerveza|Lata 473|Laton|NO RETORNABLE
+1003|Cerveza|Lata 473|Laton|NO RETORNABLE
+1004|Cerveza|Lata 473|Laton|NO RETORNABLE
+1005|Cerveza|Botella 355|Media|RETORNABLE
+1006|Cerveza|Botella 355|Media|RETORNABLE
+1007|Cerveza|Botella 355|Media|RETORNABLE
+1008|Cerveza|Botella 355|Media|RETORNABLE
+1009|Cerveza|Botella 210|Cuarto|RETORNABLE
+1010|Cerveza|Botella 210|Cuarto|RETORNABLE
+1011|Cerveza|Botella 210|Cuarto|RETORNABLE
+1012|Cerveza|Botella 210|Cuarto|RETORNABLE
+1013|Cerveza|Lata 473|Laton|NO RETORNABLE
+1014|Cerveza|Botella 355|Media|RETORNABLE
+1015|Cerveza|Botella 355|Media|RETORNABLE
+1016|Cerveza|Botella 355|Media|RETORNABLE
+1017|Cerveza|Botella 355|Media|RETORNABLE
+1018|Cerveza|Botella 355|Media|RETORNABLE
+1019|Cerveza|Botella 355|Media|RETORNABLE
+1020|Cerveza|Botella 355|Media|RETORNABLE
+1021|Cerveza|Botella 355|Media|RETORNABLE
+1022|Cerveza|Botella 355|Media|RETORNABLE
+1023|Cerveza|Botella 210|Cuarto|RETORNABLE
+1027|Cerveza|Lata 473|Laton|NO RETORNABLE
+1074|Cerveza|Botella 330|Media|RETORNABLE
+1075|Cerveza|Botella 330|Media|RETORNABLE
+1076|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+1077|Cerveza|Lata 330|Bote 330|NO RETORNABLE
+1119|Cerveza|Lata 473|Laton|NO RETORNABLE
+1125|Cerveza|Lata 473|Laton|NO RETORNABLE
+1126|Cerveza|Lata 473|Laton|NO RETORNABLE
+1127|Cerveza|Lata 473|Laton|NO RETORNABLE
+1131|Cerveza|Lata 410|Bote 410|NO RETORNABLE
+1132|Cerveza|Lata 410|Bote 410|NO RETORNABLE
+1137|Cerveza|Lata 473|Laton|NO RETORNABLE
+1140|Cerveza|Lata 410|Bote 410|NO RETORNABLE
+1141|Cerveza|Lata 410|Bote 410|NO RETORNABLE
+1142|Cerveza|Lata 410|Bote 410|NO RETORNABLE
+1143|Cerveza|Lata 410|Bote 410|NO RETORNABLE
+1144|Cerveza|Lata 410|Bote 410|NO RETORNABLE
+1166|Cerveza|Botella 850|Familiar|RETORNABLE
+1167|Cerveza|Botella 850|Familiar|RETORNABLE
+1168|Cerveza|Botella 850|Familiar|RETORNABLE
+1169|Cerveza|Botella 850|Familiar|RETORNABLE
+1170|Cerveza|Botella 850|Familiar|RETORNABLE
+1171|Cerveza|Botella 850|Familiar|RETORNABLE
+1172|Cerveza|Botella 850|Familiar|RETORNABLE
+1173|Cerveza|Botella 850|Familiar|RETORNABLE
+1174|Cerveza|Lata 355|Bote|NO RETORNABLE
+1175|Cerveza|Lata 355|Bote|NO RETORNABLE
+1176|Cerveza|Lata 355|Bote|NO RETORNABLE
+1177|Cerveza|Lata 355|Bote|NO RETORNABLE
+1178|Cerveza|Lata 355|Bote|NO RETORNABLE
+1179|Cerveza|Lata 355|Bote|NO RETORNABLE
+1180|Cerveza|Lata 355|Bote|NO RETORNABLE
+1181|Cerveza|Lata 355|Bote|NO RETORNABLE
+1182|Cerveza|Lata 355|Bote|NO RETORNABLE
+1183|Cerveza|Botella 355|Media|NO RETORNABLE
+1184|Cerveza|Botella 355|Media|NO RETORNABLE
+1185|Cerveza|Botella 355|Media|NO RETORNABLE
+1191|Cerveza|Lata 355|Bote|NO RETORNABLE
+1192|Cerveza|Botella 355|Media|NO RETORNABLE
+1194|Cerveza|Botella 1L|Mega|RETORNABLE
+1195|Cerveza|Botella 1L|Mega|RETORNABLE
+1196|Cerveza|Botella 1L|Mega|RETORNABLE
+1197|Cerveza|Botella 1L|Mega|RETORNABLE
+1198|Cerveza|Botella 900|Familiar|RETORNABLE
+1199|Cerveza|Botella 900|Familiar|RETORNABLE
+1204|Cerveza|Botella 355|Media|RETORNABLE
+1205|Cerveza|Botella 355|Media|RETORNABLE
+1206|Cerveza|Lata 355|Bote|NO RETORNABLE
+1207|Cerveza|Lata 355|Bote|NO RETORNABLE
+1208|Cerveza|Botella 355|Media|RETORNABLE
+1209|Cerveza|Botella 355|Media|RETORNABLE
+1210|Cerveza|Lata 355|Bote|NO RETORNABLE
+1211|Cerveza|Lata 355|Bote|NO RETORNABLE
+1212|Cerveza|Lata 355|Bote|NO RETORNABLE
+1213|Cerveza|Lata 355|Bote|NO RETORNABLE
+1214|Cerveza|Lata 355|Bote|NO RETORNABLE
+1215|Cerveza|Lata 355|Bote|NO RETORNABLE
+1226|Cerveza|Botella 1L|Mega|RETORNABLE
+1227|Cerveza|Botella 1L|Mega|RETORNABLE
+1228|Cerveza|Botella 900|Familiar|RETORNABLE
+1229|Cerveza|Botella 900|Familiar|RETORNABLE
+1230|Cerveza|Botella 1L|Mega|RETORNABLE
+1231|Cerveza|Botella 1L|Mega|RETORNABLE
+1232|Cerveza|Botella 330|Media|NO RETORNABLE
+1233|Cerveza|Botella 330|Media|NO RETORNABLE
+1234|Cerveza|Botella 355|Media|NO RETORNABLE
+1235|Cerveza|Botella 355|Media|NO RETORNABLE
+1236|Cerveza|Botella 355|Media|RETORNABLE
+1237|Cerveza|Botella 355|Media|RETORNABLE
+1240|Cerveza|Botella 355|Media|RETORNABLE
+1241|Cerveza|Botella 355|Media|RETORNABLE
+1242|Cerveza|Botella 355|Media|RETORNABLE
+1243|Cerveza|Botella 355|Media|RETORNABLE
+1244|Cerveza|Botella 355|Media|RETORNABLE
+1245|Cerveza|Botella 355|Media|RETORNABLE
+1246|Cerveza|Botella 355|Media|RETORNABLE
+1247|Cerveza|Botella 355|Media|RETORNABLE
+1248|Cerveza|Botella 355|Media|RETORNABLE
+1249|Cerveza|Botella 355|Media|RETORNABLE
+1250|Cerveza|Botella 355|Media|RETORNABLE
+1251|Cerveza|Botella 355|Media|RETORNABLE
+1252|Cerveza|Botella 355|Media|RETORNABLE
+1253|Cerveza|Botella 355|Media|RETORNABLE
+1254|Cerveza|Botella 355|Media|RETORNABLE
+1255|Cerveza|Botella 355|Media|RETORNABLE
+1256|Cerveza|Botella 355|Media|RETORNABLE
+1257|Cerveza|Botella 355|Media|RETORNABLE
+1258|Cerveza|Botella 355|Media|RETORNABLE
+1259|Cerveza|Botella 355|Media|RETORNABLE
+1260|Cerveza|Botella 355|Media|RETORNABLE
+1261|Cerveza|Botella 355|Media|RETORNABLE
+1263|Cerveza|Botella 1L|Mega|RETORNABLE
+1264|Cerveza|Botella 1L|Mega|RETORNABLE
+1265|Cerveza|Botella 1L|Mega|RETORNABLE
+1266|Cerveza|Botella 1L|Mega|RETORNABLE
+1267|Cerveza|Botella 1L|Mega|RETORNABLE
+1268|Cerveza|Botella 1L|Mega|RETORNABLE
+1269|Cerveza|Botella 900|Familiar|RETORNABLE
+1270|Cerveza|Botella 900|Familiar|RETORNABLE
+1271|Cerveza|Botella 900|Familiar|RETORNABLE
+1272|Cerveza|Botella 900|Familiar|RETORNABLE
+1273|Cerveza|Botella 1L|Mega|RETORNABLE
+1274|Cerveza|Botella 1L|Mega|RETORNABLE
+1275|Cerveza|Botella 1L|Mega|RETORNABLE
+1276|Cerveza|Botella 1L|Mega|RETORNABLE
+1277|Cerveza|Botella 355|Media|RETORNABLE
+1278|Cerveza|Botella 355|Media|RETORNABLE
+1279|Cerveza|Lata 355|Bote|NO RETORNABLE
+1280|Cerveza|Lata 355|Bote|NO RETORNABLE
+1281|Cerveza|Lata 355|Bote|NO RETORNABLE
+1282|Cerveza|Lata 355|Bote|NO RETORNABLE
+1283|Cerveza|Lata 355|Bote|NO RETORNABLE
+1285|Cerveza|Lata 410|Bote 410|NO RETORNABLE
+1286|Cerveza|Lata 410|Bote 410|NO RETORNABLE
+1287|Cerveza|Lata 410|Bote 410|NO RETORNABLE
+1288|Cerveza|Botella 355|Media|NO RETORNABLE
+1289|Cerveza|Botella 355|Media|NO RETORNABLE
+1290|Cerveza|Botella 355|Media|NO RETORNABLE
+1299|Cerveza|Botella 500|500 ml|NO RETORNABLE
+1300|Cerveza|Botella 330|Media|NO RETORNABLE
+1301|Cerveza|Botella 250|Media|NO RETORNABLE
+1302|Cerveza|Botella 330|Media|NO RETORNABLE
+1303|Cerveza|Botella 473|Media|NO RETORNABLE
+1304|Cerveza|Botella 500|500 ml|NO RETORNABLE
+1306|Cerveza|Botella 330|Media|NO RETORNABLE
+1307|Cerveza|Botella 330|Media|NO RETORNABLE
+1308|Cerveza|Botella 500|500 ml|NO RETORNABLE
+1309|Cerveza|Botella 275|Media|NO RETORNABLE
+1310|Cerveza|Botella 330|Media|NO RETORNABLE
+1311|Cerveza|Botella 330|Media|NO RETORNABLE
+1312|Cerveza|Botella 750|Media|NO RETORNABLE
+1313|Cerveza|Botella 355|Media|NO RETORNABLE
+1314|Cerveza|Botella 355|Media|NO RETORNABLE
+1315|Cerveza|Botella 500|500 ml|NO RETORNABLE
+1316|Cerveza|Botella 500|500 ml|NO RETORNABLE
+1317|Cerveza|Botella 330|Media|NO RETORNABLE
+1318|Cerveza|Botella 330|Media|NO RETORNABLE
+1319|Cerveza|Botella 330|Media|NO RETORNABLE
+1320|Cerveza|Botella 330|Media|NO RETORNABLE
+1321|Cerveza|Botella 740|740|NO RETORNABLE
+1322|Cerveza|Botella 355|Media|NO RETORNABLE
+1323|Cerveza|Lata 410|Bote 410|NO RETORNABLE
+1324|Cerveza|Botella 330|Media|NO RETORNABLE
+1325|Cerveza|Botella 330|Media|NO RETORNABLE
+1330|Cerveza|Botella 1.2L|Mega|RETORNABLE
+1331|Cerveza|Botella 1.2L|Mega|RETORNABLE
+1332|Cerveza|Lata 355|Bote|NO RETORNABLE
+1334|Cerveza|Lata 355|Bote|NO RETORNABLE
+1335|Cerveza|Lata 355|Bote|NO RETORNABLE
+1336|Cerveza|Lata 355|Bote|NO RETORNABLE
+1337|Cerveza|Lata 355|Bote|NO RETORNABLE
+1338|Cerveza|Lata 355|Bote|NO RETORNABLE
+1339|Cerveza|Lata 355|Bote|NO RETORNABLE
+1340|Cerveza|Botella 355|Media|NO RETORNABLE
+1341|Cerveza|Botella 355|Media|NO RETORNABLE
+1343|Cerveza|Botella 355|Media|RETORNABLE
+1344|Cerveza|Botella 355|Media|RETORNABLE
+1345|Cerveza|Botella 355|Media|RETORNABLE
+1346|Cerveza|Botella 355|Media|RETORNABLE
+1347|Cerveza|Botella 355|Media|RETORNABLE
+1348|Cerveza|Botella 355|Media|RETORNABLE
+1352|Cerveza|Botella 330|Media|NO RETORNABLE
+1353|Cerveza|Botella 330|Media|NO RETORNABLE
+1354|Cerveza|Botella 330|Media|NO RETORNABLE
+1356|Cerveza|Botella 1.2L|Mega|RETORNABLE
+1357|Cerveza|Botella 1.2L|Mega|RETORNABLE
+1358|Cerveza|Botella 1.2L|Mega|RETORNABLE
+1359|Cerveza|Botella 1.2L|Mega|RETORNABLE
+1360|Cerveza|Botella 1.2L|Mega|RETORNABLE
+1361|Cerveza|Botella 1.2L|Mega|RETORNABLE
+1362|Cerveza|Botella 1.2L|Mega|RETORNABLE
+1363|Cerveza|Botella 1.2L|Mega|RETORNABLE
+1375|Cerveza|Botella 900|Familiar|RETORNABLE
+1376|Cerveza|Botella 900|Familiar|RETORNABLE
+1377|Cerveza|Botella 900|Familiar|RETORNABLE
+1378|Cerveza|Botella 900|Familiar|RETORNABLE
+1379|Cerveza|Botella 900|Familiar|RETORNABLE
+1380|Cerveza|Botella 900|Familiar|RETORNABLE
+1381|Cerveza|VAP||NO RETORNABLE
+1382|Cerveza|VAP||NO RETORNABLE
+1383|Cerveza|Botella 1L|Mega|RETORNABLE
+1384|Cerveza|Botella 1L|Mega|RETORNABLE
+1385|Cerveza|Botella 1L|Mega|RETORNABLE
+1386|Cerveza|Botella 1L|Mega|RETORNABLE
+1387|Cerveza|Botella 1L|Mega|RETORNABLE
+1388|Cerveza|Botella 1L|Mega|RETORNABLE
+1389|Cerveza|Botella 1L|Mega|RETORNABLE
+1390|Cerveza|Botella 1L|Mega|RETORNABLE
+1398|Cerveza|Botella 1.06L|Mega|RETORNABLE
+1399|Cerveza|Botella 1.06L|Mega|RETORNABLE
+1400|Cerveza|Botella 1.06L|Mega|RETORNABLE
+1401|Cerveza|Botella 1.06L|Mega|RETORNABLE
+1402|Cerveza|Botella 1.06L|Mega|RETORNABLE
+1403|Cerveza|Botella 1.06L|Mega|RETORNABLE
+1404|Cerveza|Botella 1.06L|Mega|RETORNABLE
+1405|Cerveza|Botella 1.06L|Mega|RETORNABLE
+1411|Cerveza|Botella 1L|Mega|RETORNABLE
+1412|Cerveza|Botella 1L|Mega|RETORNABLE
+1413|Cerveza|Botella 1L|Mega|RETORNABLE
+1414|Cerveza|Botella 1L|Mega|RETORNABLE
+1415|Cerveza|Botella 900|Familiar|RETORNABLE
+1416|Cerveza|Botella 900|Familiar|RETORNABLE
+1417|Cerveza|Botella 1L|Mega|RETORNABLE
+1418|Cerveza|Botella 1L|Mega|RETORNABLE
+1419|Cerveza|Botella 850|Familiar|RETORNABLE
+1420|Cerveza|Botella 850|Familiar|RETORNABLE
+1421|Cerveza|Botella 1L|Mega|RETORNABLE
+1422|Cerveza|Botella 1L|Mega|RETORNABLE
+1423|Cerveza|Botella 210|Cuarto|Pendiente
+1424|Cerveza|Botella 210|Cuarto|Pendiente
+1425|Cerveza|Botella 210|Cuarto|Pendiente
+1426|Cerveza|Botella 355|Media|RETORNABLE
+1427|Cerveza|Botella 355|Media|RETORNABLE
+1428|Cerveza|Botella 355|Media|RETORNABLE
+1429|Cerveza|Botella 355|Media|RETORNABLE
+1430|Cerveza|Botella 355|Media|RETORNABLE
+1431|Cerveza|Botella 355|Media|RETORNABLE
+1432|Cerveza|Botella 355|Media|RETORNABLE
+1433|Cerveza|Botella 355|Media|RETORNABLE
+1444|Cerveza|Botella 210|Cuarto|RETORNABLE
+1445|Cerveza|Botella 210|Cuarto|RETORNABLE
+1446|Cerveza|Botella 210|Cuarto|RETORNABLE
+1447|Cerveza|Botella 210|Cuarto|RETORNABLE
+1449|Cerveza|Botella 1200|Mega|RETORNABLE
+1450|Cerveza|Botella 1200|Mega|RETORNABLE
+1782|Cerveza|Mega|Mega|
+1783|Cerveza|Mega|Mega|
+1784|Cerveza|Familiar|Familiar|
+1785|Cerveza|Mega|Mega|
+1786|Cerveza|Mega|Mega|
+1787|Cerveza|Mega|Mega|
+1788|Cerveza|Mega|Mega|
+1789|Cerveza|Mega|Mega|
+1790|Cerveza|Mega|Mega|
+1791|Cerveza|Familiar|Familiar|
+1792|Cerveza|Media|Media|
+1793|Cerveza|Media|Media|
+1794|Cerveza|Media|Media|
+1795|Cerveza|Media|Media|
+1796|Cerveza|Media|Media|
+1797|Cerveza|Media|Media|
+1798|Cerveza|Media|Media|
+1799|Cerveza|Mega|Mega|
+1800|Cerveza|Mega|Mega|
+1802|Cerveza|Media|Media|
+1803|Cerveza|Media|Media|
+1804|Cerveza|Media|Media|
+1805|Cerveza|Media|Media|
+1806|Cerveza|Mega|Mega|
+1807|Cerveza|Mega|Mega|
+1816|Cerveza|Media|Media|
+1817|Cerveza|355 ML|Media|
+1837|Cerveza|Media|Media|RETORNABLE
+1838|Cerveza|Media|Media|RETORNABLE
+1839|Cerveza|Media|Media|RETORNABLE
+1840|Cerveza|Bote 330|Bote 330|NO RETORNABLE
+1841|Cerveza|Bote 330|Bote 330|NO RETORNABLE
+1842|Cerveza|Bote 330|Bote 330|NO RETORNABLE
+1843|Cerveza|Bote 330|Bote 330|NO RETORNABLE
+1844|Cerveza|Bote 330|Bote 330|NO RETORNABLE
+1845|Cerveza|Mega|Mega|RETORNABLE
+1846|Cerveza|Mega|Mega|RETORNABLE
+1847|Cerveza|Mega|Mega|RETORNABLE
+1848|Cerveza|Mega|Mega|RETORNABLE
+1849|Cerveza|Mega|Mega|RETORNABLE
+1850|Cerveza|Mega|Mega|RETORNABLE
+1851|Cerveza|Mega|Mega|RETORNABLE
+1852|Cerveza|Mega|Mega|RETORNABLE
+1853|Cerveza|||
+1854|Cerveza|||
+1855|Cerveza|||
+1856|Cerveza|||
+1857|Cerveza|||
+1858|Cerveza|||
+1859|Cerveza|||
+1860|Cerveza|||
+1861|Cerveza|||
+1862|Cerveza|||
+1863|Cerveza|||
+1864|Cerveza|||
+1865|Cerveza|||
+1866|Cerveza|||
+1867|Cerveza|||
+1868|Cerveza|||
+1869|Cerveza|||
+1870|Cerveza|||
+1871|Cerveza|||
+1872|Cerveza|||
+1873|Cerveza|||
+1874|Cerveza|||
+1875|Cerveza|||
+1876|Cerveza|||
+1887|Cerveza|||
+1891|Cerveza|||
+1892|Cerveza|||
+1893|Cerveza|||
+1894|Cerveza|||
+1895|Cerveza|||
+1896|Cerveza|||
+1897|Cerveza|1200 ML|Mega|RETORNABLE
+1898|Cerveza|1200 ML|Mega|RETORNABLE
+1899|Cerveza|1200 ML|Mega|RETORNABLE
+1900|Cerveza|1200 ML|Mega|RETORNABLE
+1901|Cerveza|1200 ML|Mega|NO RETORNABLE
+1902|Cerveza|1200 ML|Mega|NO RETORNABLE
+1903|Cerveza|1200 ML|Mega|NO RETORNABLE
+1904|Cerveza|1200 ML|Mega|NO RETORNABLE
+1905|Cerveza|||
+1906|Cerveza|||
+1907|Cerveza|||
+1908|Cerveza|||
+1909|Cerveza|||
+1910|Cerveza|||
+1911|Cerveza|||
+1912|Cerveza|||
+1913|Cerveza|||
+1914|Cerveza|||
+1915|Cerveza|||
+1916|Cerveza|||
+1917|Cerveza|||
+1918|Cerveza|||
+1919|Cerveza|||
+1920|Cerveza|||
+1921|Cerveza|||
+1922|Cerveza|||
+1923|Cerveza|||
+1924|Cerveza|||
+1925|Cerveza|||
+1926|Cerveza|||
+1927|Cerveza|||
+1928|Cerveza|||
+1945|Cerveza|||
